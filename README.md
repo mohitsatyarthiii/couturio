@@ -25,15 +25,15 @@ git clone https://github.com/yourusername/couturio.git
 
 	2.	Install Dependencies:
 
-cd couturio
-npm install
+  cd couturio
+  npm install
 
 
 	3.	Configure Environment Variables:
 	•	Set up .env files for both frontend and backend with necessary configurations.
 	4.	Run the Application:
 
-npm run dev
+  npm run dev
 
 
 
