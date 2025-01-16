@@ -29,7 +29,8 @@ git clone https://github.com/yourusername/couturio.git
 	3.	Configure Environment Variables:
 	•	Set up .env files for both frontend and backend with necessary configurations.
 	4.	Run the Application:
-        5.      npm run dev
+        
+	5.      npm run dev
 
 
 
