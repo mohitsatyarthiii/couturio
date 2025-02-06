@@ -21,7 +21,7 @@ To explore the project locally:
 	
  1.	Clone the Repository:
 
-           git clone https://github.com/yourusername/couturio.git
+           git clone https://github.com/mohitsatyarthiii/couturio.git
 
 
 	2.	Install Dependencies:
