@@ -29,15 +29,16 @@ To explore the project locally:
            git clone https://github.com/mohitsatyarthiii/couturio.git
 
 
-	2.	Install Dependencies:
+2.      Install Dependencies:
                 npm install
 
 
-	4.	Configure Environment Variables:
-	•	Set up .env files for both frontend and backend with necessary configurations.
-	5.	Run the Application:
+3.      Configure Environment Variables:
+4.      Set up .env files for both frontend and backend with necessary configurations.
+
+5.      Run the Application:
         
-	6.      npm run dev
+6.      npm run dev
 
 
 
