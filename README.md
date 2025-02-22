@@ -1,6 +1,9 @@
 # E-commerce-website-Couturio
 Couturio is a full-featured e-commerce platform built with the MERN stack (MongoDB, Express.js, React, Node.js), designed to provide a seamless online shopping experience.
 
+![Screenshot 2025-02-22 182452](https://github.com/user-attachments/assets/061ebe20-001a-4758-9052-91dd77efdc27)
+
+
 Key Features:
 	•	User-Friendly Interface: Leveraging React and Tailwind CSS, Couturio offers a responsive and intuitive user interface, ensuring a smooth browsing experience across all devices.
 	•	Secure Payments: Integrated with Stripe, the platform facilitates secure and efficient payment processing, enhancing user trust and transaction safety.
